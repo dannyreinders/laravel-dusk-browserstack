@@ -1,5 +1,5 @@
 {
-  "name": "galahad/dusk-browserstack",
+  "name": "dannyreinders/dusk-browserstack",
   "description": "Easily run Laravel Dusk tests on BrowserStack.",
   "keywords": [
     "laravel",
